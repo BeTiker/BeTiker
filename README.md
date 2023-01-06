@@ -1,4 +1,7 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/7e635745-10a3-4307-9413-3f17c5125d4f.svg)](https://wakatime.com/@7e635745-10a3-4307-9413-3f17c5125d4f)
+[![wakatime](https://wakatime.com/share/@BeTiker/5c47743c-d242-4175-8139-5d15dbd30350.svg)](https://wakatime.com/@7e635745-10a3-4307-9413-3f17c5125d4f)
+
+
 
 <!--
 **BeTiker/BeTiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeTiker&count_private=true&show_icons=true&theme=synthwave&hide=stars,prs,issues,contribs)](https://github.com/BeTiker)
+ -->
